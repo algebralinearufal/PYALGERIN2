@@ -7,11 +7,18 @@
 ### Conteúdos do Repositório
 
 <div align="center">
-
-| **Conteúdo**                              | **Tópicos**                                                                                                                                                                |
-|:------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Autovalores e Sistemas Lineares em Resistências dos Materiais** | <a href="https://colab.research.google.com/drive/19aF4oj6WhO5n_Ycp4TKfCpNuo7kywAc?usp=sharing" target="_blank">[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]</a> |
-
+    <table>
+        <tr>
+            <td><strong>Conteúdo</strong></td>
+            <td><strong>Tópicos</strong></td>
+        </tr>
+        <tr>
+            <td><strong>Autovalores e Sistemas Lineares em Resistências dos Materiais</strong></td>
+            <td><a href="https://colab.research.google.com/drive/19aF4oj6WhO5n_Ycp4TKfCpNuo7kywAc?usp=sharing" target="_blank">
+                <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab" />
+            </a></td>
+        </tr>
+    </table>
 </div>
 
 
