@@ -28,7 +28,6 @@
                 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab" />
             </a></td>
         </tr>
-
     </table>
 </div>
 
