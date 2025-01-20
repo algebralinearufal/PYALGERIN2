@@ -10,10 +10,12 @@
     <table>
         <tr>
             <td><strong>Conteúdo</strong></td>
-            <td><strong>LINK</strong></td>
+            <td><strong>Descrição</strong></td>
+            <td><strong>Lik</strong></td>
         </tr>
         <tr>
             <td><strong>Autovalores e Sistemas Lineares em Resistências dos Materiais</strong></td>
+    <td><strong></strong></td>
             <td><a href="https://colab.research.google.com/drive/19aF4oj6wWhO5n_Ycp4TKfCpNuo7kywAc?usp=sharing" target="_blank">
                 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab" />
             </a></td>
