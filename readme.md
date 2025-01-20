@@ -4,9 +4,14 @@
 # ÁLGEBRA LINEAR COM PYTHON
 **APLICAÇÕES NAS ENGENHARIAS CIVIL E DE PRODUÇÃO**
 
+### Conteúdos do Repositório
 
- <div align="center">
-   
+<div align="center">
+
+| **Conteúdo**                              | **Link**                                                                                                                                                                |
+|:------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Autovalores e Sistemas Lineares em Resistências dos Materiais** | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19aF4oj6WhO5n_Ycp4TKfCpNuo7kywAc?usp=sharing) |
 
 </div>
+
 Este produto educacional constitui um dos resultados do projeto Ações em prol das disciplinas de Geometria Analítica e Álgebra Linear, por meio do Edital PROGRAD Nº 15/2024, sob a supervisão do Prof. Dr. Marcelo Pires.
