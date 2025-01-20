@@ -1,7 +1,9 @@
 ![PyAlgerin2](assents/capa.png)
 
 
-# Álgebra Linear com python: Aplicações nas engenharias civil e de produção
+# ÁLGEBRA LINEAR COM PYTHON
+**APLICAÇÕES NAS ENGENHARIAS CIVIL E DE PRODUÇÃO**
+
 
  <div align="center">
    
