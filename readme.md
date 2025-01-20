@@ -20,6 +20,15 @@
                 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab" />
             </a></td>
         </tr>
+
+ <tr>
+            <td><strong>Álgebra Linear e Cadeias de Markov</strong></td>
+    <td><strong></strong></td>
+            <td><a href="https://colab.research.google.com/drive/1Pv0TrmRs3gPbHezbBJ1ZD4exiPkgy_77?usp=sharing" target="_blank">
+                <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab" />
+            </a></td>
+        </tr>
+
     </table>
 </div>
 
