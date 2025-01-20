@@ -1,1 +1,1 @@
-![PyAlgerin2](capa.png)
+![PyAlgerin2](assents/capa.png)
