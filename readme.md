@@ -11,7 +11,7 @@
         <tr>
             <td><strong>Conteúdo</strong></td>
             <td><strong>Descrição</strong></td>
-            <td><strong>Lik</strong></td>
+            <td><strong>Link</strong></td>
         </tr>
         <tr>
             <td><strong>Autovalores e Sistemas Lineares em Resistências dos Materiais</strong></td>
