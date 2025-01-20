@@ -4,7 +4,7 @@
 # ÁLGEBRA LINEAR COM PYTHON
 **APLICAÇÕES NAS ENGENHARIAS CIVIL E DE PRODUÇÃO**
 
-### Conteúdos do Repositório
+### Conteúdos do Repositório:
 
 <div align="center">
     <table>
@@ -14,7 +14,7 @@
         </tr>
         <tr>
             <td><strong>Autovalores e Sistemas Lineares em Resistências dos Materiais</strong></td>
-            <td><a href="https://colab.research.google.com/drive/19aF4oj6WhO5n_Ycp4TKfCpNuo7kywAc?usp=sharing" target="_blank">
+            <td><a href="https://colab.research.google.com/drive/19aF4oj6wWhO5n_Ycp4TKfCpNuo7kywAc?usp=sharing" target="_blank">
                 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab" />
             </a></td>
         </tr>
